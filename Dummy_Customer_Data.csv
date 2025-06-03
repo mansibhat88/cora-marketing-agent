@@ -1,0 +1,11 @@
+customer_id,age,gender,product_bought,purchase_frequency,last_purchase_days_ago,total_spent,campaign_response
+1,25,F,Face Wash,5,10,120,1
+2,45,M,Shampoo,3,40,80,0
+3,33,F,Moisturizer,8,5,200,1
+4,29,F,Lipstick,6,15,150,1
+5,41,M,Shampoo,2,60,60,0
+6,52,M,Hair Oil,1,90,30,0
+7,36,F,Sunscreen,7,7,180,1
+8,48,M,Beard Oil,2,70,50,0
+9,30,F,Foundation,9,3,220,1
+10,39,F,Serum,6,20,140,1
